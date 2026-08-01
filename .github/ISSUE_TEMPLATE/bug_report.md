@@ -4,14 +4,9 @@ about: Report a plugin issue or error
 title: ''
 labels: ''
 assignees: ''
-
 ---
-### Which plugin are you using?
-- [ ] BedWars1058-Inviter
-- [ ] Bedwars1058-Spectatorfix
-- [ ] Footprints
 
-### Is the plugin on the latest version?
+### Is the plugin on the latest release version?
 - [ ] Yes
 - [ ] No
 
@@ -24,10 +19,11 @@ assignees: ''
 - [ ] 1.12.2
 - [ ] 1.16.5
 - [ ] 1.17.1
-- [ ] 1.18.1
+- [ ] 1.18.2
 - [ ] 1.19.4
 - [ ] 1.20.6
 - [ ] 1.21.4
+- [ ] 1.21.11
 - [ ] Other (please specify): ______
 
 ### Have you tested if the issue occurs with the default configuration?
