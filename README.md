@@ -1,6 +1,7 @@
 # BedWars1058‑Inviter
 
 [![Modrinth](https://img.shields.io/badge/1.15-Release-success?logo=modrinth)](https://modrinth.com/plugin/bedwars1058-inviter/versions)
+[![Java](https://img.shields.io/badge/Java-11%2B-important)](https://adoptium.net/)
 [![bStats](https://bstats.org/signatures/bukkit/BedWars1058-Inviter.svg)](https://bstats.org/plugin/bukkit/BedWars1058-Inviter/32091)
 
 **Lightweight yet powerful addon for BedWars1058** that fills your arenas faster, keeps players connected, and puts communication entirely in your hands.
