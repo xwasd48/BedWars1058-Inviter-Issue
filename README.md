@@ -83,6 +83,3 @@
 
 Found a bug or have a suggestion? Open an issue on the [issue tracker](https://github.com/xwasd48/Plugin-Issue-Reporting-Repository/issues).
 
-## bStats
-
-[![](https://bstats.org/signatures/bukkit/BedWars1058-Inviter.svg)](https://bstats.org/plugin/bukkit/BedWars1058-Inviter/32091)
